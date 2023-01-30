@@ -1,0 +1,3 @@
+> git push
+error: src refspec refs/heads/main does not match any
+error: failed to push some refs to 'https://github.com/alaboughamoura/coding_dojo.git'
